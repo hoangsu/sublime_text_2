@@ -1,0 +1,28 @@
+{
+	"installed_packages":
+	[
+		"Alignment",
+		"CSS Less(ish)",
+		"CSS3_Syntax",
+		"Emmet Css Snippets",
+		"HTML Boilerplate",
+		"HTML5",
+		"HTMLAttributes",
+		"HTMLBeautify",
+		"jQuery",
+		"jQuery Snippets pack",
+		"LESS",
+		"LESS-build",
+		"List LESS Variables",
+		"Magento - TemplateCopy",
+		"MagentoIntel",
+		"Nettuts+ Fetch",
+		"Package Control",
+		"Prefixr",
+		"Sass",
+		"SASS Snippets",
+		"SCSS",
+		"SublimeCodeIntel",
+		"Wordless"
+	]
+}

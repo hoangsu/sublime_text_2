@@ -1,0 +1,14 @@
+[
+    {
+        "caption": "CSS Less-ish: Compile",
+        "command": "css_less_ish_compile"
+    },
+    {
+        "caption": "CSS Less-ish: Decompile",
+        "command": "css_less_ish_decompile"
+    },
+    {
+        "caption": "CSS Less-ish: Run Tests",
+        "command": "css_less_ish_run_tests"
+    }
+]
